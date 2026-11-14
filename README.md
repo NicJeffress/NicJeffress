@@ -4,7 +4,7 @@ Mechanical engineer turned physical oceanographer. I recently finished my PhD at
 
 I care about making scientific models trustworthy and affordable to run: testing every change carefully and getting the same answer on any machine.
 
-![Idealized fringing reef with a pass, used for COAWST ensembles](https://raw.githubusercontent.com/NicJeffress/idealized-reef/main/figures/a15_bathymetry.png)
+<p align="center"><img src="https://raw.githubusercontent.com/NicJeffress/idealized-reef/main/figures/reef_jet_40S_strat.gif" width="830" alt="Particle tracks of lagoon water leaving an idealized coral reef through its passes, coloured by depth: a wave-driven jet and its eddies, 40°S rotation, stratified ocean"></p>
 
 ### What I work on
 
